@@ -25,8 +25,8 @@
   foaf:knows [
     a foaf:Person ;
     foaf:name "Marta Tolevska" ;
-    foaf:mbox_sha1sum "774690801c353a99052c75b69f3f289eedc70712"
-	rdfs:seeAlso <https://raw.githubusercontent.com/Tolevska/labWBS/main/foaf.ttl>
+    foaf:mbox_sha1sum "774690801c353a99052c75b69f3f289eedc70712" ;
+    rdfs:seeAlso <https://raw.githubusercontent.com/Tolevska/labWBS/main/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Marija Popovic" ;
@@ -34,7 +34,7 @@
     rdfs:seeAlso <https://www.dropbox.com/s/bakixp7xx3tocqs/foaf.ttl?dl=1>
   ], [
     a foaf:Person ;
-    foaf:name "Teo Dimitrovski" ;
+    foaf:name "Teodor Dimitrovski" ;
     foaf:mbox_sha1sum "3555f916ece173eb09b7081949010e5257a0353a" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/TeoHub13/WBS_FOAF/master/foaf.ttl>
   ] .
